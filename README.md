@@ -1,8 +1,11 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShuaiGuo16/Surrogate_Optimization/blob/master/Surrogate_Optimization.ipynb)
 
-## Surrogate Optimization
+## Hypothetical Outcome Plots
 
-This notebook is the hands-on part of learning surrogate optimization approach. A walk-through of a case study is given to show how surrogate optimization is employed in practice.
+Hypothetical outcome plots is an effective visualization method to communicate data uncertainty. This repo included several notebooks to demonstrate how this approach is applied under different analysis settings. All notebooks provide step-by-step guides of generating Hypothetical outcome plots in Python:
+
+
+
 
 ## Companion blog
 
